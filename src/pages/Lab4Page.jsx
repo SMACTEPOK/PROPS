@@ -10,7 +10,7 @@ export default function Lab4Page() {
   return (
     <div className="lab4-page">
       <header className="lab4-header">
-        <h1 className="lab4-title">LAB 04<br/>COMPOSITION</h1>
+        <h1 className="lab4-title">COMPOSITION</h1>
         <p className="lab4-subtitle">Композиція компонентів та передача props</p>
       </header>
 
